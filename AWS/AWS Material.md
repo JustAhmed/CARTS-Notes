@@ -15,8 +15,8 @@
 ---
 AWS Training Labs
 
-- ~~http://flaws.cloud/~~
-- ~~http://flaws2.cloud/~~
+- http://flaws.cloud/
+- http://flaws2.cloud/
 - https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
 - https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation
 - https://github.com/RhinoSecurityLabs/cloudgoat
